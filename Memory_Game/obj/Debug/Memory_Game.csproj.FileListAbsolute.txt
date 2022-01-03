@@ -1,0 +1,14 @@
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe.config
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\bin\Debug\Memory_Game.pdb
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csprojAssemblyReference.cache
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csproj.CoreCompileInputs.cache
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.exe
+C:\Users\Public\miri תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.pdb
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe.config
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\bin\Debug\Memory_Game.pdb
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csprojAssemblyReference.cache
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.exe
+D:\תכנות\שנה ב\C# שפת\המורה רבקה אדלשטיין\H.W\Memory_Game\Memory_Game\obj\Debug\Memory_Game.pdb
